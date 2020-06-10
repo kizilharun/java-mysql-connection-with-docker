@@ -3,8 +3,8 @@ import java.sql.*;
 
     class MysqlCon {
         static final String driver = "com.mysql.cj.jdbc.Driver";
-        static final String url = "jdbc:mysql://192.168.99.100:3306/hello_java?useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
-        static final String user = "demo_java";
+        static final String url = "***";
+        static final String user = "****";
         static final String pass = "****";
 
         static Connection con = null ;
